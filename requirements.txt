@@ -1,5 +1,5 @@
-pip install flask
-pip install scrapy
-pip install tweeny
-pip install json
+pip install Flask
+pip install Scrapy
+pip install Tweeny
+pip install Json
 
