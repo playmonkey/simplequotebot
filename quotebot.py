@@ -3,6 +3,8 @@ import random
 import tweepy
 from os import environ
 
+#never place private keys here!
+
 #CUSTOMER_KEY = API_KEY
 #CUSTOMER_SECRET = API_SECRET_KEY
 #ACCESS_KEY = ACCESS_TOKEN
