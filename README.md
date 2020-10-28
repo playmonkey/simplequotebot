@@ -30,7 +30,6 @@ Set Environment Variables on Heroku
 
 ToDo // More robust code with better error handling
 
-
-
+[take a look at @randomquotebot1]
 
 
