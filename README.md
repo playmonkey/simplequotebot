@@ -1,7 +1,7 @@
 A simple autotweeter that sends a quote every hour to your twitter account. It's not finalized yet as i'm still debugging it
 
-Stack
------
+Stack & Flow
+------------
 
 i.   heroku
 
@@ -34,6 +34,6 @@ ToDo // More robust code with better error handling
 Demo Twitter Bot
 ----------------
 
-take a look at @randomquotebot1
+Take a look at @randomquotebot1
 
 
